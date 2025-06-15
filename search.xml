@@ -15,110 +15,27 @@
 </div>
 
 <div class="tabs" id="first-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#first-unique-name-1">網站使用指引</a></li><li class="tab"><a href="#first-unique-name-2">网站使用指引</a></li><li class="tab"><a href="#first-unique-name-3">Website Guidelines</a></li></ul><div class="tab-content"><div class="tab-pane active" id="first-unique-name-1"><p><strong>電腦使用者</strong></p>
-<div class="note "><p>右下角 🌗 可轉換白天&#x2F;黑夜模式<br>網站默認語言<mark class="label primary">繁體-香港</mark>，底部能夠轉換語言（繁體-香港&#x2F;簡體&#x2F;English）<br>轉換語言後主頁會顯示相應語言的文章內容：<br>–&gt;<a href="https://wingsze.us.kg/zh-HK/%E5%B1%A5%E6%AD%B7/">履歷</a><br>–&gt;<a href="https://wingsze.us.kg/zh-HK/%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81/">個人作品</a></p>
+<div class="note "><p>右下角 🌗 可轉換白天&#x2F;黑夜模式<br>網站默認語言<mark class="label primary">繁體-香港</mark>，底部能夠轉換語言（繁體-香港&#x2F;簡體&#x2F;English）<br>轉換語言後主頁會顯示相應語言的文章內容：<br>–&gt;<a href="https://serendiha.github.io/zh-HK/%E5%B1%A5%E6%AD%B7/">履歷</a><br>–&gt;<a href="https://serendiha.github.io/zh-HK/%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81/">個人作品</a></p>
 <p><mark class="label success">左側功能</mark></p>
 <div class="tabs" id="second-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#second-unique-name-1">主菜單</a></li><li class="tab"><a href="#second-unique-name-2">作者欄目</a></li><li class="tab"><a href="#second-unique-name-3">目錄</a></li></ul><div class="tab-content"><div class="tab-pane active" id="second-unique-name-1"><p>主頁（Welcome again!）、關於（多語言自我介紹）、分類（文章的多語言版本）、搜索（輸入關鍵詞即可搜索相關內容）</p></div><div class="tab-pane" id="second-unique-name-2"><p>有電郵地址和其他平台的個人主頁，歡迎聯絡了解！</p></div><div class="tab-pane" id="second-unique-name-3"><p>進入文章後左側會出現目錄</p></div></div></div></div>
 
 <p><strong>流動設備使用者</strong></p>
 <div class="note "><p>流動設備的主菜單在網頁頂部；作者欄目和目錄則在左下角</p>
 </div></div><div class="tab-pane" id="first-unique-name-2"><p><strong>电脑用户</strong></p>
-<div class="note "><p>右下角 🌗 可切换白天&#x2F;黑夜模式<br>网站默认语言为<mark class="label primary">繁体-香港</mark>，在页面底部可以切换语言（繁体-香港&#x2F;简体&#x2F;英语）。<br>切换语言后，主页将显示相应语言的文章内容：<br>–&gt;<a href="https://wingsze.us.kg/zh-CN/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/">个人简历</a><br>–&gt;<a href="https://wingsze.us.kg/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/">个人作品</a></p>
+<div class="note "><p>右下角 🌗 可切换白天&#x2F;黑夜模式<br>网站默认语言为<mark class="label primary">繁体-香港</mark>，在页面底部可以切换语言（繁体-香港&#x2F;简体&#x2F;英语）。<br>切换语言后，主页将显示相应语言的文章内容：<br>–&gt;<a href="https://serendiha.github.io/zh-CN/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/">个人简历</a><br>–&gt;<a href="https://serendiha.github.io/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/">个人作品</a></p>
 <p><mark class="label success">左侧功能</mark></p>
 <div class="tabs" id="third-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#third-unique-name-1">主菜单</a></li><li class="tab"><a href="#third-unique-name-2">作者栏目</a></li><li class="tab"><a href="#third-unique-name-3">目录</a></li></ul><div class="tab-content"><div class="tab-pane active" id="third-unique-name-1"><p>首页（Welcome again!）、关于（多语言自我介绍）、分类（文章的多语言版本）、检索（输入关键词即可搜索相关内容）</p></div><div class="tab-pane" id="third-unique-name-2"><p>包含电子邮件地址和其他平台的个人主页，欢迎联系了解！</p></div><div class="tab-pane" id="third-unique-name-3"><p>进入文章后左侧会出现目录</p></div></div></div></div>
 
 <p><strong>移动设备用户</strong></p>
 <div class="note "><p>移动设备的主菜单在网页顶部；作者栏目和目录则在左下角</p>
 </div></div><div class="tab-pane" id="first-unique-name-3"><p><strong>Desktop Users</strong></p>
-<div class="note "><p>The 🌗 at bottom right corner allows you to switch between light and dark mode<br>The website’s default language is <mark class="label primary">Traditional-Hong Kong</mark>. You can switch languages at the bottom of the page (Traditional-Hong Kong&#x2F;Simplified&#x2F;English).<br>After switching languages, the homepage will display articles in the corresponding language:<br>–&gt;<a href="https://wingsze.us.kg/en/Personal%20Resume/">Personal Resume</a><br>–&gt;<a href="https://wingsze.us.kg/en/Personal%20Portfolio/">Personal Portfolio</a></p>
+<div class="note "><p>The 🌗 at bottom right corner allows you to switch between light and dark mode<br>The website’s default language is <mark class="label primary">Traditional-Hong Kong</mark>. You can switch languages at the bottom of the page (Traditional-Hong Kong&#x2F;Simplified&#x2F;English).<br>After switching languages, the homepage will display articles in the corresponding language:<br>–&gt;<a href="https://serendiha.github.io/en/Personal%20Resume/">Personal Resume</a><br>–&gt;<a href="https://serendiha.github.io/en/Personal%20Portfolio/">Personal Portfolio</a></p>
 <p><mark class="label success">Left-side Features</mark></p>
 <div class="tabs" id="fourth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#fourth-unique-name-1">Menu</a></li><li class="tab"><a href="#fourth-unique-name-2">Author's Column</a></li><li class="tab"><a href="#fourth-unique-name-3">Table of Contents</a></li></ul><div class="tab-content"><div class="tab-pane active" id="fourth-unique-name-1"><p>Home(Welcome again!), About (Multilingual Self-introduction),<br>Categories (Multilingual versions of articles), Search(Enter a keyword to search for related content)</p></div><div class="tab-pane" id="fourth-unique-name-2"><p>Includes email address and personal homepages on other platforms, feel free to contact for more information!</p></div><div class="tab-pane" id="fourth-unique-name-3"><p>Appears on the left side after entering an article</p></div></div></div></div>
 
 <p><strong>Mobile Device Users</strong></p>
 <div class="note "><p>The main menu for mobile devices is at the top of the web page; the author’s column and table of contents are located at the bottom left.</p>
 </div></div></div></div>]]></content>
-  </entry>
-  <entry>
-    <title>个人作品</title>
-    <url>/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/</url>
-    <content><![CDATA[<h1 id="平台运营"><a href="#平台运营" class="headerlink" title="平台运营"></a>平台运营</h1><h2 id="小红书"><a href="#小红书" class="headerlink" title="小红书"></a>小红书</h2><p><strong><a href="https://www.xiaohongshu.com/user/profile/626ce1e00000000021028dc7">真探工作室</a></strong></p>
-<h2 id="微信视频号"><a href="#微信视频号" class="headerlink" title="微信视频号"></a>微信视频号</h2><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
-<h1 id="公众号排版"><a href="#公众号排版" class="headerlink" title="公众号排版"></a>公众号排版</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
-
-<h1 id="AE"><a href="#AE" class="headerlink" title="AE"></a>AE</h1><p><strong><a href="https://drive.google.com/file/d/1PYxNQPAzBFXmcdq9EXRnlfzJmLtnoa00/view?usp=sharing">网页展示</a></strong></p>
-<h1 id="Vlog"><a href="#Vlog" class="headerlink" title="Vlog"></a>Vlog</h1><p><strong><a href="https://drive.google.com/file/d/1ONW_r9Oc-oY8ttQEEDI2CocltFr3QOA8/view?usp=sharing">2024杭州GO</a></strong><br><strong><a href="https://drive.google.com/file/d/1d7dATrq0EeMgvub9ccPAG7J7_RuqztZf/view?usp=sharing">2023TAIWAN</a></strong></p>
-]]></content>
-      <categories>
-        <category>Portfolio</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>个人简历</title>
-    <url>/zh-CN/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</url>
-    <content><![CDATA[<h1 id="个人资料"><a href="#个人资料" class="headerlink" title="个人资料"></a>个人资料</h1><ul>
-<li><strong>姓名：</strong> 何咏诗 <span id="more"></span></li>
-</ul>
-<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul>
-<li>邮箱：<a href="mailto:&#104;&#48;&#51;&#50;&#x31;&#95;&#55;&#55;&#55;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#109;">&#104;&#48;&#51;&#50;&#x31;&#95;&#55;&#55;&#55;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#109;</a> &#x2F; <a href="mailto:&#104;&#x79;&#115;&#115;&#x73;&#119;&#115;&#x40;&#103;&#97;&#109;&#x69;&#108;&#x2e;&#99;&#111;&#109;">&#104;&#x79;&#115;&#115;&#x73;&#119;&#115;&#x40;&#103;&#97;&#109;&#x69;&#108;&#x2e;&#99;&#111;&#109;</a></li>
-<li>电话：13054416723</li>
-<li>微信：xh_hys</li>
-</ul>
-<h1 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h1><ul>
-<li><strong>暨南大学</strong>    2022.09 至今<ul>
-<li>全日制本科 新闻学</li>
-<li>主修课程：传播学、新闻史、社会学、电视摄像</li>
-<li>GPA专业排名前10%</li>
-</ul>
-</li>
-</ul>
-<h1 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h1><ul>
-<li>熟练操作Excel、Word等办公软件</li>
-<li>掌握使用PR、PS、Blender、Aegisub等媒体处理软件</li>
-</ul>
-<h1 id="个人素质"><a href="#个人素质" class="headerlink" title="个人素质"></a>个人素质</h1><ul>
-<li>有团队协作精神</li>
-<li>较强的抗压能力</li>
-<li>仔细的观察能力</li>
-</ul>
-<h1 id="个人荣誉"><a href="#个人荣誉" class="headerlink" title="个人荣誉"></a>个人荣誉</h1><ul>
-<li>大学生英语六级(573分)</li>
-<li>普通话水平测试(二甲)</li>
-<li>优秀学生一等奖</li>
-</ul>
-<h1 id="实习经历"><a href="#实习经历" class="headerlink" title="实习经历"></a>实习经历</h1><h2 id="清博智能-日报编辑实习"><a href="#清博智能-日报编辑实习" class="headerlink" title="清博智能 日报编辑实习"></a>清博智能 日报编辑实习</h2><ul>
-<li>2024.10-2025.01<ul>
-<li>舆情信息内容编辑、整理、报送；</li>
-<li>利用常规办公软件进行数据处理分析；</li>
-<li>独立承担具体业务对接工作，根据业务需求制定舆情服务策略</li>
-</ul>
-</li>
-</ul>
-<h1 id="社团经历"><a href="#社团经历" class="headerlink" title="社团经历"></a>社团经历</h1><h2 id="暨南大学新闻与传播学院融媒体中心-海外平台运营部干事"><a href="#暨南大学新闻与传播学院融媒体中心-海外平台运营部干事" class="headerlink" title="暨南大学新闻与传播学院融媒体中心 海外平台运营部干事"></a>暨南大学新闻与传播学院融媒体中心 海外平台运营部干事</h2><ul>
-<li>2024.10 至今<ul>
-<li>负责暨南大学新闻与传播学院的多平台对外传播内容</li>
-<li>进行文化相关栏目的策划推广</li>
-</ul>
-</li>
-</ul>
-<h2 id="真探工作室-运营部部长"><a href="#真探工作室-运营部部长" class="headerlink" title="真探工作室 运营部部长"></a>真探工作室 运营部部长</h2><ul>
-<li>2024.09 至今<ul>
-<li>负责“真探(TRUTH SEEKER)工作室”海内外媒体矩阵的日常运营和管理<br>与GDToday合作项目Fact Check海外矩阵覆盖量达300+，<br>海内矩阵覆盖量达1000+<br>与南方英文网合作项目探针系列海外矩阵覆盖量达1000+；</li>
-<li>组织团建、招新大会等事宜</li>
-</ul>
-</li>
-</ul>
-<h2 id="广东高校香港学生联合会-宣传部干事"><a href="#广东高校香港学生联合会-宣传部干事" class="headerlink" title="广东高校香港学生联合会 宣传部干事"></a>广东高校香港学生联合会 宣传部干事</h2><ul>
-<li>2022.09 - 2023.09<ul>
-<li>负责社交平台的推文撰写及编辑排版</li>
-<li>关注潮流热点，保证推文的趣味性以满足受众需求</li>
-<li>协助活动现场的统筹，进行活动细节记录</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Resumes</category>
-      </categories>
   </entry>
   <entry>
     <title>Personal Portfolio</title>
@@ -136,88 +53,13 @@
       </categories>
   </entry>
   <entry>
-    <title>履歷</title>
-    <url>/zh-HK/%E5%B1%A5%E6%AD%B7/</url>
-    <content><![CDATA[<h1 id="基本資料"><a href="#基本資料" class="headerlink" title="基本資料"></a>基本資料</h1><ul>
-<li><strong>姓名：</strong> 何詠詩 <span id="more"></span></li>
-</ul>
-<h1 id="聯繫方式"><a href="#聯繫方式" class="headerlink" title="聯繫方式"></a>聯繫方式</h1><ul>
-<li>Email：<a href="mailto:&#104;&#121;&#x73;&#115;&#x73;&#119;&#115;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#x6d;">&#104;&#121;&#x73;&#115;&#x73;&#119;&#115;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#x6d;</a></li>
-<li>Tel：+852 95822882</li>
-</ul>
-<h1 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h1><ul>
-<li><strong>暨南大學</strong>    2022.09 至今<ul>
-<li>Major：新聞學</li>
-<li>主修課程：傳播學、新聞史、社會學、電視攝像</li>
-<li>GPA專業排名前10%</li>
-</ul>
-</li>
-</ul>
-<h1 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h1><ul>
-<li>熟練操作Excel、Word等辦公軟件</li>
-<li>掌握使用PR、PS等媒體處理軟件</li>
-<li>以及Aegisub字幕編輯軟件</li>
-</ul>
-<h1 id="個人素質"><a href="#個人素質" class="headerlink" title="個人素質"></a>個人素質</h1><ul>
-<li>有團隊協作精神</li>
-<li>較強的抗壓能力</li>
-<li>仔細的觀察能力</li>
-</ul>
-<h1 id="個人榮耀"><a href="#個人榮耀" class="headerlink" title="個人榮耀"></a>個人榮耀</h1><ul>
-<li>CET 6(573分)</li>
-<li>普普通話水平測試(二甲)</li>
-<li>優秀學生一等獎</li>
-</ul>
-<h1 id="實習經歷"><a href="#實習經歷" class="headerlink" title="實習經歷"></a>實習經歷</h1><h2 id="清博智能-日報編輯實習"><a href="#清博智能-日報編輯實習" class="headerlink" title="清博智能 日報編輯實習"></a>清博智能 日報編輯實習</h2><ul>
-<li>2024.10-2025.01<ul>
-<li>輿情信息内容编辑編輯、整理、報送；</li>
-<li>利用常規辦公軟件進行數據分析；</li>
-<li>獨立承擔具體業務對接，根據業務需求制定輿情服務策略</li>
-</ul>
-</li>
-</ul>
-<h1 id="社團經歷"><a href="#社團經歷" class="headerlink" title="社團經歷"></a>社團經歷</h1><h2 id="暨南大學新聞與傳播學院融媒體中心-海外平台運營部幹事"><a href="#暨南大學新聞與傳播學院融媒體中心-海外平台運營部幹事" class="headerlink" title="暨南大學新聞與傳播學院融媒體中心 海外平台運營部幹事"></a>暨南大學新聞與傳播學院融媒體中心 海外平台運營部幹事</h2><ul>
-<li>2024.10 至今<ul>
-<li>負責暨南大學新聞與傳播學院的多平台對外傳播内容</li>
-<li>進行文化相關欄目的策劃推廣</li>
-</ul>
-</li>
-</ul>
-<h2 id="真探工作室-運營部部長"><a href="#真探工作室-運營部部長" class="headerlink" title="真探工作室 運營部部長"></a>真探工作室 運營部部長</h2><ul>
-<li>2024.09 至今<ul>
-<li>負責「真探(TRUTH SEEKER)工作室」海内外社交媒體賬號的日常運營和管理<br>與GDToday合作项目項目Fact Check海外矩阵矩陣覆蓋量達300+，<br>海内矩阵矩陣覆蓋量達1000+<br>與南方英文網合作項目探針系列海外矩陣覆蓋量達1000+；</li>
-<li>組織團建、招新大會等事宜</li>
-</ul>
-</li>
-</ul>
-<h2 id="廣東高校香港學生聯合會-宣傳部幹事"><a href="#廣東高校香港學生聯合會-宣傳部幹事" class="headerlink" title="廣東高校香港學生聯合會 宣傳部幹事"></a>廣東高校香港學生聯合會 宣傳部幹事</h2><ul>
-<li>2022.09 - 2023.09<ul>
-<li>負責社交平台的推文撰寫及編輯排版</li>
-<li>關注潮流熱點，保證推文的趣味性以滿足受眾需求</li>
-<li>協助活動現場的統籌，進行活動細節記錄</li>
-</ul>
-</li>
-</ul>
-<h1 id="校園經歷"><a href="#校園經歷" class="headerlink" title="校園經歷"></a>校園經歷</h1><h2 id="學生社區-樓層長"><a href="#學生社區-樓層長" class="headerlink" title="學生社區 樓層長"></a>學生社區 樓層長</h2><ul>
-<li>2022.09 至今<ul>
-<li>宿舍走訪了解居住需求，對接學生社區居住情况</li>
-<li>時刻關懷學生心理、穩定學生情緒</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Resumes</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Personal Resume</title>
     <url>/en/Personal%20Resume/</url>
     <content><![CDATA[<h1 id="Information"><a href="#Information" class="headerlink" title="Information"></a>Information</h1><ul>
 <li><strong>Name:</strong> Ho Wing Sze <span id="more"></span></li>
 </ul>
 <h1 id="Contact-Information"><a href="#Contact-Information" class="headerlink" title="Contact Information"></a>Contact Information</h1><ul>
-<li><strong>Email:</strong> <a href="mailto:&#104;&#x30;&#x33;&#50;&#x31;&#x5f;&#x37;&#55;&#55;&#x40;&#113;&#x71;&#x2e;&#x63;&#x6f;&#x6d;">&#104;&#x30;&#x33;&#50;&#x31;&#x5f;&#x37;&#55;&#55;&#x40;&#113;&#x71;&#x2e;&#x63;&#x6f;&#x6d;</a> &#x2F; <a href="mailto:&#104;&#x79;&#x73;&#x73;&#115;&#119;&#115;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#104;&#x79;&#x73;&#x73;&#115;&#119;&#115;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a></li>
+<li><strong>Email:</strong> <a href="mailto:&#104;&#48;&#x33;&#50;&#x31;&#95;&#x37;&#x37;&#x37;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;">&#104;&#48;&#x33;&#50;&#x31;&#95;&#x37;&#x37;&#x37;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;</a> &#x2F; <a href="mailto:&#104;&#121;&#115;&#x73;&#115;&#x77;&#115;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#104;&#121;&#115;&#x73;&#115;&#x77;&#115;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a></li>
 <li><strong>Tele:</strong> 13054416723</li>
 <li><strong>Wechat:</strong> xh_hys</li>
 </ul>
@@ -289,6 +131,89 @@
       </categories>
   </entry>
   <entry>
+    <title>个人作品</title>
+    <url>/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/</url>
+    <content><![CDATA[<h1 id="平台运营"><a href="#平台运营" class="headerlink" title="平台运营"></a>平台运营</h1><h2 id="小红书"><a href="#小红书" class="headerlink" title="小红书"></a>小红书</h2><p><strong><a href="https://www.xiaohongshu.com/user/profile/626ce1e00000000021028dc7">真探工作室</a></strong></p>
+<h2 id="微信视频号"><a href="#微信视频号" class="headerlink" title="微信视频号"></a>微信视频号</h2><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
+<h1 id="公众号排版"><a href="#公众号排版" class="headerlink" title="公众号排版"></a>公众号排版</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
+
+<h1 id="AE"><a href="#AE" class="headerlink" title="AE"></a>AE</h1><p><strong><a href="https://drive.google.com/file/d/1PYxNQPAzBFXmcdq9EXRnlfzJmLtnoa00/view?usp=sharing">网页展示</a></strong></p>
+<h1 id="Vlog"><a href="#Vlog" class="headerlink" title="Vlog"></a>Vlog</h1><p><strong><a href="https://drive.google.com/file/d/1ONW_r9Oc-oY8ttQEEDI2CocltFr3QOA8/view?usp=sharing">2024杭州GO</a></strong><br><strong><a href="https://drive.google.com/file/d/1d7dATrq0EeMgvub9ccPAG7J7_RuqztZf/view?usp=sharing">2023TAIWAN</a></strong></p>
+]]></content>
+      <categories>
+        <category>Portfolio</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>个人简历</title>
+    <url>/zh-CN/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</url>
+    <content><![CDATA[<h1 id="个人资料"><a href="#个人资料" class="headerlink" title="个人资料"></a>个人资料</h1><ul>
+<li><strong>姓名：</strong> 何咏诗 <span id="more"></span></li>
+</ul>
+<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul>
+<li>邮箱：<a href="mailto:&#x68;&#48;&#x33;&#x32;&#49;&#x5f;&#x37;&#x37;&#x37;&#64;&#113;&#113;&#46;&#x63;&#x6f;&#x6d;">&#x68;&#48;&#x33;&#x32;&#49;&#x5f;&#x37;&#x37;&#x37;&#64;&#113;&#113;&#46;&#x63;&#x6f;&#x6d;</a> &#x2F; <a href="mailto:&#x68;&#121;&#115;&#x73;&#x73;&#119;&#115;&#64;&#x67;&#97;&#x6d;&#x69;&#108;&#46;&#99;&#111;&#x6d;">&#x68;&#121;&#115;&#x73;&#x73;&#119;&#115;&#64;&#x67;&#97;&#x6d;&#x69;&#108;&#46;&#99;&#111;&#x6d;</a></li>
+<li>电话：13054416723</li>
+<li>微信：xh_hys</li>
+</ul>
+<h1 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h1><ul>
+<li><strong>暨南大学</strong>    2022.09 至今<ul>
+<li>全日制本科 新闻学</li>
+<li>主修课程：传播学、新闻史、社会学、电视摄像</li>
+<li>GPA专业排名前10%</li>
+</ul>
+</li>
+</ul>
+<h1 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h1><ul>
+<li>熟练操作Excel、Word等办公软件</li>
+<li>掌握使用PR、PS、Blender、Aegisub等媒体处理软件</li>
+</ul>
+<h1 id="个人素质"><a href="#个人素质" class="headerlink" title="个人素质"></a>个人素质</h1><ul>
+<li>有团队协作精神</li>
+<li>较强的抗压能力</li>
+<li>仔细的观察能力</li>
+</ul>
+<h1 id="个人荣誉"><a href="#个人荣誉" class="headerlink" title="个人荣誉"></a>个人荣誉</h1><ul>
+<li>大学生英语六级(573分)</li>
+<li>普通话水平测试(二甲)</li>
+<li>优秀学生一等奖</li>
+</ul>
+<h1 id="实习经历"><a href="#实习经历" class="headerlink" title="实习经历"></a>实习经历</h1><h2 id="清博智能-日报编辑实习"><a href="#清博智能-日报编辑实习" class="headerlink" title="清博智能 日报编辑实习"></a>清博智能 日报编辑实习</h2><ul>
+<li>2024.10-2025.01<ul>
+<li>舆情信息内容编辑、整理、报送；</li>
+<li>利用常规办公软件进行数据处理分析；</li>
+<li>独立承担具体业务对接工作，根据业务需求制定舆情服务策略</li>
+</ul>
+</li>
+</ul>
+<h1 id="社团经历"><a href="#社团经历" class="headerlink" title="社团经历"></a>社团经历</h1><h2 id="暨南大学新闻与传播学院融媒体中心-海外平台运营部干事"><a href="#暨南大学新闻与传播学院融媒体中心-海外平台运营部干事" class="headerlink" title="暨南大学新闻与传播学院融媒体中心 海外平台运营部干事"></a>暨南大学新闻与传播学院融媒体中心 海外平台运营部干事</h2><ul>
+<li>2024.10 至今<ul>
+<li>负责暨南大学新闻与传播学院的多平台对外传播内容</li>
+<li>进行文化相关栏目的策划推广</li>
+</ul>
+</li>
+</ul>
+<h2 id="真探工作室-运营部部长"><a href="#真探工作室-运营部部长" class="headerlink" title="真探工作室 运营部部长"></a>真探工作室 运营部部长</h2><ul>
+<li>2024.09 至今<ul>
+<li>负责“真探(TRUTH SEEKER)工作室”海内外媒体矩阵的日常运营和管理<br>与GDToday合作项目Fact Check海外矩阵覆盖量达300+，<br>海内矩阵覆盖量达1000+<br>与南方英文网合作项目探针系列海外矩阵覆盖量达1000+；</li>
+<li>组织团建、招新大会等事宜</li>
+</ul>
+</li>
+</ul>
+<h2 id="广东高校香港学生联合会-宣传部干事"><a href="#广东高校香港学生联合会-宣传部干事" class="headerlink" title="广东高校香港学生联合会 宣传部干事"></a>广东高校香港学生联合会 宣传部干事</h2><ul>
+<li>2022.09 - 2023.09<ul>
+<li>负责社交平台的推文撰写及编辑排版</li>
+<li>关注潮流热点，保证推文的趣味性以满足受众需求</li>
+<li>协助活动现场的统筹，进行活动细节记录</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Resumes</category>
+      </categories>
+  </entry>
+  <entry>
     <title>個人作品</title>
     <url>/zh-HK/%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81/</url>
     <content><![CDATA[<h1 id="平台運營"><a href="#平台運營" class="headerlink" title="平台運營"></a>平台運營</h1><h2 id="小紅書"><a href="#小紅書" class="headerlink" title="小紅書"></a>小紅書</h2><p><strong><a href="https://www.xiaohongshu.com/user/profile/626ce1e00000000021028dc7">真探工作室</a></strong></p>
@@ -301,6 +226,81 @@
 ]]></content>
       <categories>
         <category>Portfolio</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>履歷</title>
+    <url>/zh-HK/%E5%B1%A5%E6%AD%B7/</url>
+    <content><![CDATA[<h1 id="基本資料"><a href="#基本資料" class="headerlink" title="基本資料"></a>基本資料</h1><ul>
+<li><strong>姓名：</strong> 何詠詩 <span id="more"></span></li>
+</ul>
+<h1 id="聯繫方式"><a href="#聯繫方式" class="headerlink" title="聯繫方式"></a>聯繫方式</h1><ul>
+<li>Email：<a href="mailto:&#x68;&#121;&#x73;&#115;&#115;&#x77;&#x73;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;">&#x68;&#121;&#x73;&#115;&#115;&#x77;&#x73;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;</a></li>
+<li>Tel：+852 95822882</li>
+</ul>
+<h1 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h1><ul>
+<li><strong>暨南大學</strong>    2022.09 至今<ul>
+<li>Major：新聞學</li>
+<li>主修課程：傳播學、新聞史、社會學、電視攝像</li>
+<li>GPA專業排名前10%</li>
+</ul>
+</li>
+</ul>
+<h1 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h1><ul>
+<li>熟練操作Excel、Word等辦公軟件</li>
+<li>掌握使用PR、PS等媒體處理軟件</li>
+<li>以及Aegisub字幕編輯軟件</li>
+</ul>
+<h1 id="個人素質"><a href="#個人素質" class="headerlink" title="個人素質"></a>個人素質</h1><ul>
+<li>有團隊協作精神</li>
+<li>較強的抗壓能力</li>
+<li>仔細的觀察能力</li>
+</ul>
+<h1 id="個人榮耀"><a href="#個人榮耀" class="headerlink" title="個人榮耀"></a>個人榮耀</h1><ul>
+<li>CET 6(573分)</li>
+<li>普普通話水平測試(二甲)</li>
+<li>優秀學生一等獎</li>
+</ul>
+<h1 id="實習經歷"><a href="#實習經歷" class="headerlink" title="實習經歷"></a>實習經歷</h1><h2 id="清博智能-日報編輯實習"><a href="#清博智能-日報編輯實習" class="headerlink" title="清博智能 日報編輯實習"></a>清博智能 日報編輯實習</h2><ul>
+<li>2024.10-2025.01<ul>
+<li>輿情信息内容编辑編輯、整理、報送；</li>
+<li>利用常規辦公軟件進行數據分析；</li>
+<li>獨立承擔具體業務對接，根據業務需求制定輿情服務策略</li>
+</ul>
+</li>
+</ul>
+<h1 id="社團經歷"><a href="#社團經歷" class="headerlink" title="社團經歷"></a>社團經歷</h1><h2 id="暨南大學新聞與傳播學院融媒體中心-海外平台運營部幹事"><a href="#暨南大學新聞與傳播學院融媒體中心-海外平台運營部幹事" class="headerlink" title="暨南大學新聞與傳播學院融媒體中心 海外平台運營部幹事"></a>暨南大學新聞與傳播學院融媒體中心 海外平台運營部幹事</h2><ul>
+<li>2024.10 至今<ul>
+<li>負責暨南大學新聞與傳播學院的多平台對外傳播内容</li>
+<li>進行文化相關欄目的策劃推廣</li>
+</ul>
+</li>
+</ul>
+<h2 id="真探工作室-運營部部長"><a href="#真探工作室-運營部部長" class="headerlink" title="真探工作室 運營部部長"></a>真探工作室 運營部部長</h2><ul>
+<li>2024.09 至今<ul>
+<li>負責「真探(TRUTH SEEKER)工作室」海内外社交媒體賬號的日常運營和管理<br>與GDToday合作项目項目Fact Check海外矩阵矩陣覆蓋量達300+，<br>海内矩阵矩陣覆蓋量達1000+<br>與南方英文網合作項目探針系列海外矩陣覆蓋量達1000+；</li>
+<li>組織團建、招新大會等事宜</li>
+</ul>
+</li>
+</ul>
+<h2 id="廣東高校香港學生聯合會-宣傳部幹事"><a href="#廣東高校香港學生聯合會-宣傳部幹事" class="headerlink" title="廣東高校香港學生聯合會 宣傳部幹事"></a>廣東高校香港學生聯合會 宣傳部幹事</h2><ul>
+<li>2022.09 - 2023.09<ul>
+<li>負責社交平台的推文撰寫及編輯排版</li>
+<li>關注潮流熱點，保證推文的趣味性以滿足受眾需求</li>
+<li>協助活動現場的統籌，進行活動細節記錄</li>
+</ul>
+</li>
+</ul>
+<h1 id="校園經歷"><a href="#校園經歷" class="headerlink" title="校園經歷"></a>校園經歷</h1><h2 id="學生社區-樓層長"><a href="#學生社區-樓層長" class="headerlink" title="學生社區 樓層長"></a>學生社區 樓層長</h2><ul>
+<li>2022.09 至今<ul>
+<li>宿舍走訪了解居住需求，對接學生社區居住情况</li>
+<li>時刻關懷學生心理、穩定學生情緒</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Resumes</category>
       </categories>
   </entry>
 </search>
